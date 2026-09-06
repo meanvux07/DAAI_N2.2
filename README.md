@@ -1,7 +1,7 @@
 # DAAI_N2.2
 
 ## 1. Quản lý dự án
-* **Link Jira:** [link Jira dự án của nhóm ](https://meanvux.atlassian.net/jira/software/projects/DN2/boards/2?filter=&groupBy=none&atlOrigin=eyJpIjoiZjA4ZThmZTc2NmJiNDNjMGFmYmU0MmI4M2RiNDc5MjEiLCJwIjoiaiJ9)
+* **Link Jira:** [link Jira dự án của nhóm ](https://vunguyenducnghia07.atlassian.net/jira/software/projects/DN2/boards/34?filter=&groupBy=none&atlOrigin=eyJpIjoiOWUzZjVjZTU2ZTgzNGQ3ZGI3OGRkNGRmZjNhNGViYTkiLCJwIjoiaiJ9)
 
 ## 2. Danh sách thành viên
 
